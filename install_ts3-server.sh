@@ -9,7 +9,7 @@
 
 # ==> VARIABLES <==
 # user to run the ts3server and where to install it
-TS3_USER="teamspeak3"
+TS3_USER="SiyahSancakBilişiö"
 TS3_DIR="/opt/ts3server"
 TS3_VER="3.10.0"
 
